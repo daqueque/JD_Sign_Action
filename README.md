@@ -50,7 +50,7 @@
 
 
 
-## 效果截图
+## 效果图片
 
 ![WechatIMG3](./images/WechatIMG3.jpeg)
 
